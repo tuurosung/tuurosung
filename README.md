@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuurosung)](https://github.com/tuurosung/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=js,linux,php,laravel,symfony,html,css,bootstrap,laravel)](https://skillicons.dev)
